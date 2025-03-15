@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> // THIS FILE IS ONLY DESIGNED FOR THE 880 CASES OF THE 4X4 ORDER MAGIC SQUARE
 
 #define MAX 900 // Max thinkable magic coefficient for a 4x4 magic square
 
