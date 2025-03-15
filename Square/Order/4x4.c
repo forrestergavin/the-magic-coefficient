@@ -1,4 +1,4 @@
-/* THIS FILE DOESN'T INCLUDE FILE READING JUST YET */
+/* THIS FILE DOESN'T INCLUDE FILE READING */
 #include<stdio.h>
 
 #define MAX 900 // Max thinkable magic coefficient for a 4x4 magic square
