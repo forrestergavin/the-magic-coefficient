@@ -59,7 +59,7 @@ void main(){
 		14, 4, 1, 15}; // A vaild 4x4 magic square
 	//checkforterm(s4); print(value);
 	//checkforterm(s4); print(value);
-	feed("4x4_880.txt");
+	feed("880_squares.txt");
 	checkforterminfile();
 	print(value);
 }
