@@ -1,4 +1,4 @@
-/* WARNNING THE CODE IN THIS FILE IS NOT REFINED FOR NOW */
+/* WARNNING THE CODE IS UNREFINED BUT WORKS */
 #include<stdio.h>
 #include<stdlib.h>
 
