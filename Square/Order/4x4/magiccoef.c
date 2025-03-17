@@ -1,3 +1,4 @@
+// REFINED CODE
 #include<stdio.h>
 
 #define MIN 0
