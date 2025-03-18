@@ -1,10 +1,11 @@
 // REFINED CODE
 #include<stdio.h>
 
-#define MIN 0
 #define MAX 10000
+#define LIM 880*16
 
-int tally, val[MAX], qty[MAX]; char dir[MAX];
+int tally, val[MAX], qty[MAX]; char dir[MAX]; 
+int dat[LIM];
 
 void calcoef(int ort, int a, int b, int c, int d){
 	int cal=(d*c)+(d*b)+(c*b)+(d*a)+(c*a)+(a*b);
@@ -39,12 +40,32 @@ void readout(int *m){
 		if(val[i]!=0){tally++; printf("tally: %d | quantity: %d | direction: %c | coefficient: %d\n", tally, qty[i], dir[i], val[i]);}}
 }
 
+void feed(char file[]){
+	FILE *fptr=fopen(file, "r");
+	char line[100];
+
+	if(fptr!=NULL){
+		int i=0; while(fgets(line, sizeof(line), fptr)){dat[i]=atoi(&line); i++;}
+		fclose(fptr);
+	} else{printf("\nERROR: Unable to open %s\n", file);};
+}
+
+void filereadin(){
+	int step=16;
+	int matrix[step];
+	for(int i=0; i<LIM; i+=step){for(int j=0; j<step; j++){
+			matrix[j]=dat[i+j];
+		}; searchcoef(matrix);
+  }
+}
+
 int main(){
-	int magic[]={
+	/*int magic[]={
 		2, 16, 13, 3,
 		11, 5, 8, 10,
 		7, 9, 12, 6,
 		14, 4, 1, 15}; //A vaild magic square
-	searchcoef(magic); readout(val);
+	searchcoef(magic); readout(val);*/
+	feed("squares.txt"); filereadin(); readout(val);
 	return 0;
 }
