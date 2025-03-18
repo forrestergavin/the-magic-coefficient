@@ -36,18 +36,18 @@ void feed(char file[]){
 	FILE *fptr=fopen(file, "r");
 	char line[100];
 
-	if(fptr!=NULL){indent();
+	if(fptr!=NULL){
 		int i=0; while(fgets(line, sizeof(line), fptr)){cell[i]=atoi(&line); i++;}
-		int j=0; for(int i=0; i<=LIM; i++){if(cell[i]!=0){printf("%d ", cell[i]); if(j>=4){indent(); j=0;}; j++;};};
 		indent(); fclose(fptr);
 	} else{printf("\nERROR: Unable to open %s\n", file);};
 }
 
 void checkforterminfile(){
-	int matrix[16]; int min=16; int max=32;
-	for(int i=0; i<=(LIM-1); i+=min){for(int j=-1; j<=min; j++){
+	int step=16;
+	int matrix[step];
+	for(int i=0; i<LIM; i+=step){for(int j=0; j<step; j++){
 			matrix[j]=cell[i+j];
-		}; checkforterm(matrix);
+		};checkforterm(matrix); print(value); for(int k=0; k<MAX; k++){value[k]=0; amount[k]=0;} // AMOUNT IS SHARING!?
 	};
 }
 
@@ -61,5 +61,5 @@ void main(){
 	//checkforterm(s4); print(value);
 	feed("squares.txt");
 	checkforterminfile();
-	print(value);
+	//print(value);
 }
