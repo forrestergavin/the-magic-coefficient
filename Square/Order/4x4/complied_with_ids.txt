@@ -1,0 +1,11 @@
+tally: 1 | quantity: 4 | direction: r | coefficient: 359
+tally: 2 | quantity: 2 | direction: r | coefficient: 375
+tally: 3 | quantity: 3 | direction: r | coefficient: 383
+tally: 4 | quantity: 2 | direction: r | coefficient: 387
+tally: 5 | quantity: 4 | direction: d | coefficient: 389
+tally: 6 | quantity: 2 | direction: d | coefficient: 392
+tally: 7 | quantity: 4 | direction: r | coefficient: 393
+tally: 8 | quantity: 2 | direction: r | coefficient: 395
+tally: 9 | quantity: 3 | direction: r | coefficient: 399
+tally: 10 | quantity: 2 | direction: r | coefficient: 407
+tally: 11 | quantity: 4 | direction: r | coefficient: 423
