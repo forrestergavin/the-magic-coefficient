@@ -1,39 +1,39 @@
-tally: 1 total: 24 direction: c coefficient: 335
-tally: 2 total: 64 direction: c coefficient: 347
-tally: 3 total: 184 direction: c coefficient: 357
-tally: 4 total: 416 direction: r coefficient: 359
-tally: 5 total: 184 direction: c coefficient: 361
-tally: 6 total: 64 direction: c coefficient: 365
-tally: 7 total: 56 direction: d coefficient: 368
-tally: 8 total: 256 direction: c coefficient: 371
-tally: 9 total: 608 direction: r coefficient: 375
-tally: 10 total: 104 direction: c coefficient: 377
-tally: 11 total: 192 direction: c coefficient: 379
-tally: 12 total: 32 direction: d coefficient: 380
-tally: 13 total: 32 direction: d coefficient: 381
-tally: 14 total: 880 direction: r coefficient: 383
-tally: 15 total: 64 direction: c coefficient: 385
-tally: 16 total: 336 direction: r coefficient: 387
-tally: 17 total: 32 direction: d coefficient: 388
-tally: 18 total: 576 direction: d coefficient: 389
-tally: 19 total: 392 direction: c coefficient: 391
-tally: 20 total: 96 direction: d coefficient: 392
-tally: 21 total: 448 direction: r coefficient: 393
-tally: 22 total: 368 direction: r coefficient: 395
-tally: 23 total: 32 direction: d coefficient: 396
-tally: 24 total: 64 direction: c coefficient: 397
-tally: 25 total: 848 direction: r coefficient: 399
-tally: 26 total: 168 direction: d coefficient: 401
-tally: 27 total: 240 direction: c coefficient: 403
-tally: 28 total: 32 direction: d coefficient: 404
-tally: 29 total: 584 direction: r coefficient: 407
-tally: 30 total: 32 direction: d coefficient: 409
-tally: 31 total: 240 direction: d coefficient: 411
-tally: 32 total: 80 direction: d coefficient: 413
-tally: 33 total: 24 direction: c coefficient: 415
-tally: 34 total: 56 direction: d coefficient: 416
-tally: 35 total: 104 direction: c coefficient: 419
-tally: 36 total: 192 direction: c coefficient: 421
-tally: 37 total: 432 direction: r coefficient: 423
-tally: 38 total: 192 direction: c coefficient: 425
-tally: 39 total: 72 direction: c coefficient: 427
+tally: 1 | quantity: 24 | direction: c | coefficient: 335
+tally: 2 | quantity: 64 | direction: c | coefficient: 347
+tally: 3 | quantity: 184 | direction: c | coefficient: 357
+tally: 4 | quantity: 416 | direction: r | coefficient: 359
+tally: 5 | quantity: 184 | direction: c | coefficient: 361
+tally: 6 | quantity: 64 | direction: c | coefficient: 365
+tally: 7 | quantity: 56 | direction: d | coefficient: 368
+tally: 8 | quantity: 256 | direction: c | coefficient: 371
+tally: 9 | quantity: 608 | direction: r | coefficient: 375
+tally: 10 | quantity: 104 | direction: c | coefficient: 377
+tally: 11 | quantity: 192 | direction: c | coefficient: 379
+tally: 12 | quantity: 32 | direction: d | coefficient: 380
+tally: 13 | quantity: 32 | direction: d | coefficient: 381
+tally: 14 | quantity: 880 | direction: r | coefficient: 383
+tally: 15 | quantity: 64 | direction: c | coefficient: 385
+tally: 16 | quantity: 336 | direction: r | coefficient: 387
+tally: 17 | quantity: 32 | direction: d | coefficient: 388
+tally: 18 | quantity: 576 | direction: d | coefficient: 389
+tally: 19 | quantity: 392 | direction: c | coefficient: 391
+tally: 20 | quantity: 96 | direction: d | coefficient: 392
+tally: 21 | quantity: 448 | direction: r | coefficient: 393
+tally: 22 | quantity: 368 | direction: r | coefficient: 395
+tally: 23 | quantity: 32 | direction: d | coefficient: 396
+tally: 24 | quantity: 64 | direction: c | coefficient: 397
+tally: 25 | quantity: 848 | direction: r | coefficient: 399
+tally: 26 | quantity: 168 | direction: d | coefficient: 401
+tally: 27 | quantity: 240 | direction: c | coefficient: 403
+tally: 28 | quantity: 32 | direction: d | coefficient: 404
+tally: 29 | quantity: 584 | direction: r | coefficient: 407
+tally: 30 | quantity: 32 | direction: d | coefficient: 409
+tally: 31 | quantity: 240 | direction: d | coefficient: 411
+tally: 32 | quantity: 80 | direction: d | coefficient: 413
+tally: 33 | quantity: 24 | direction: c | coefficient: 415
+tally: 34 | quantity: 56 | direction: d | coefficient: 416
+tally: 35 | quantity: 104 | direction: c | coefficient: 419
+tally: 36 | quantity: 192 | direction: c | coefficient: 421
+tally: 37 | quantity: 432 | direction: r | coefficient: 423
+tally: 38 | quantity: 192 | direction: c | coefficient: 425
+tally: 39 | quantity: 72 | direction: c | coefficient: 427
