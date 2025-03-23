@@ -15,4 +15,5 @@ Details are given there, but i will summarise: Some polynomials with their roots
 |    /      -(  | |----|   / |  |    /   |----| |
 |  /---| \----) |      |     |  |  /---|      | |
 |_______________|_______________|_______________|
++=================Parker=Square=================+
 ```
