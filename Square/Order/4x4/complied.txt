@@ -1,3 +1,4 @@
+//OLD
 tally: 1 | quantity: 24 | direction: c | coefficient: 335
 tally: 2 | quantity: 64 | direction: c | coefficient: 347
 tally: 3 | quantity: 184 | direction: c | coefficient: 357
@@ -37,3 +38,30 @@ tally: 36 | quantity: 192 | direction: c | coefficient: 421
 tally: 37 | quantity: 432 | direction: r | coefficient: 423
 tally: 38 | quantity: 192 | direction: c | coefficient: 425
 tally: 39 | quantity: 72 | direction: c | coefficient: 427
+
+//NEW
+[1, 32544]
+[2, -1407280432]
+[3, 32544]
+[4, 97]
+[5, 4097]
+[6, 359]
+[7, 368]
+[8, 371]
+[9, 375]
+[10, 383]
+[11, 387]
+[12, 389]
+[13, 391]
+[14, 392]
+[15, 393]
+[16, 395]
+[17, 399]
+[18, 401]
+[19, 403]
+[20, 407]
+[21, 411]
+[22, 413]
+[23, 416]
+[24, 423]
+
