@@ -43,7 +43,7 @@ k5=ed+ec+dc+eb+db+cb+ea+da+ca+ab
 kn=zy+zx+yx+...+ab
 ```
 
-IMPORTANT: The second term's coefficient must be the same for all quadratics in the corresponding magic square, so that they belong to the that magic square's range of numbers and not another's, in order to get the correct magic coefficient./
+IMPORTANT: The second term's coefficient must be the same for all quadratics in the corresponding magic square, so that they belong to the that magic square's range of numbers and not another's, in order to get the correct magic coefficient. <br/>
 NOTE: There is no max for magic squares, z is just the last letter in the alphabet.
 
 PARKER SQUARE:
