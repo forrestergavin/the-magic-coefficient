@@ -6,6 +6,7 @@ Magic Square order 3 X 3
 9, 5, 1
 4, 3, 8
 
+Reasoning:
 (x + 2)(x + 7)(x + 6) Top
 (x + 4)(x + 3)(x + 8) Bottom
 =>
