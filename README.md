@@ -34,7 +34,7 @@ m5=e+d+c+b+a
 mn=z+...+b+a
 ```
 
-apply to each row, column, or diagonal to calculate the third shared term's coefficient kx^(n-2) or just k, this is formula for the magic coefficients in the corresponding magic square:
+Apply to each row, column, or diagonal to calculate the third shared term's coefficient kx^(n-2) or just k, this is formula for the magic coefficients in the corresponding magic square:
 ```
 k3=ca+cb+ab
 k4=dc+db+cb+da+ca+ab
@@ -43,6 +43,7 @@ k5=ed+ec+dc+eb+db+cb+ea+da+ca+ab
 kn=zy+zx+yx+...+ab
 ```
 
+IMPORTANT: The cross sum must be the same for all quadratics in the corresponding magic square, so that they belong to the same order magic square with the same range of numbers, in order to get the correct magic coefficient. 
 NOTE: There is no max for magic squares, z is just the last letter in the alphabet.
 
 PARKER SQUARE:
