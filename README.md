@@ -1,4 +1,4 @@
-To summarise: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order. 
+Summary: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order. 
 
 ORGANISATION (Rows, Columns, Diagonals):
 ```
@@ -34,7 +34,7 @@ m5=e+d+c+b+a
 mn=z+...+b+a
 ```
 
-apply to each row, column, or diagonal to calculate the third shared term's coefficient kx^(n-2) or just k:
+apply to each row, column, or diagonal to calculate the third shared term's coefficient kx^(n-2) or just k, this is formula for the magic coefficients in the corresponding magic square:
 ```
 k3=ca+cb+ab
 k4=dc+db+cb+da+ca+ab
