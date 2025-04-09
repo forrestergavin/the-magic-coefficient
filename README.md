@@ -1,5 +1,24 @@
 Summary: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order and the magic square's range of numbers must match the polynomial's second term's coefficient. 
 
+```
+Magic Square order 3 X 3
+2, 7, 6,
+9, 5, 1
+4, 3, 8
+
+(x + 2)(x + 7)(x + 6) Top
+(x + 4)(x + 3)(x + 8) Bottom
+=>
+(x + 2)(x + 7)(x + 6) Top
+(x + 8)(x + 3)(x + 4) Bottom
+=
+(x + 2)(x + 7)(x + 6) Top
+(    +)(    +)(    +) Plus
+(x + 8)(x + 3)(x + 4) Bottom
+=
+(x + 10)(x + 10)(x + 10) Sum
+```
+
 ORGANISATION (Rows, Columns, Diagonals):
 ```
 Rows
