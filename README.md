@@ -1,6 +1,7 @@
 To summarise: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order. 
 
 ORGANISATION (Rows, Columns, Diagonals)
+```
 a,b,c,...z
 a,b,c,...z
 a,b,c,...z
@@ -18,6 +19,7 @@ x,b,x
 d,x,c,
        .
          z
+```
 
 FORMULAS
 Apply to each row, column, or diagonal to calculate the second shared term's coefficient or cross sum,
