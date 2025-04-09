@@ -18,6 +18,15 @@ Reasoning for the concept:
 (x + 8)(x + 3)(x + 4) Bottom
 =
 (x + 10)(x + 10)(x + 10) Sum
+
+The concept itself:
+k3=ca+cb+ab
+
+a = 2, b = 7, c = 6
+k3=(6)(2)+(6)(7)+(2)(7)=68
+
+a = 4, b = 3, c = 8
+k3=(8)(4)+(8)(3)+(4)(3)=68
 ```
 
 ORGANISATION (Rows, Columns, Diagonals):
