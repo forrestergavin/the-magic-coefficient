@@ -1,4 +1,4 @@
-Summary: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order and the magic square's range of numbers must match the quadratic's second term's coefficient. 
+Summary: Some polynomials with their roots all given by a magic square's row, column or diagonal share the same third term's coefficient, this is the called the magic coefficient. Mind you, both the polynomial and magic square must be of the same order and the magic square's range of numbers must match the polynomial's second term's coefficient. 
 
 ORGANISATION (Rows, Columns, Diagonals):
 ```
