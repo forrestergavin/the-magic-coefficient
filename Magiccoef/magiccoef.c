@@ -1,4 +1,4 @@
-// REFINED CODE WITH MEMORY LEAK, BUT SEEMS TO STILL WORK!
+// WITH MEMORY LEAK, BUT SEEMS TO STILL WORK!
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
